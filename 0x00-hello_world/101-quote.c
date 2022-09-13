@@ -6,7 +6,7 @@
 
 /**
  *
- *  * main - Entry poiiiiint
+ *  main - Entry poiiiiint
  *  Return: return 1
  *
  */
