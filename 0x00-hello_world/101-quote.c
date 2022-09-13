@@ -5,7 +5,6 @@
 
 
 /**
- *
  *  main - Entry poiiiiint
  *  Return: return 1
  *
